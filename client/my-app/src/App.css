@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  margin: 50% auto;
+  
+  border-radius: 15px;
+  background-color: aquamarine;
+  width:400px;
+
+
+}
+.container:hover{
+  box-shadow:2px 5px black;
+}
+
+
+.input-box{
+  display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border:1px solid aqua;
+    border-radius:5px;
+ 
+}
+.label-text{
+  margin: 12px;
+}
+
+.top-text{
+  text-align: center;
+
+}
+
+.s-button{
+  margin: 12px;
+    padding: 12px;
+    background-color: black;
+    border: 0;
+    border-radius: 10px;
+    color:#fff;
+    cursor: pointer;
+}
+
+.s-button:hover{
+  background-color: aqua;
+  color:black;
+}
+
+.container-fluid{
+  background-color: aqua;
+    margin: 10% auto;
+    border-radius: 15px;
+    height: 20rem;
+}
+
+.top-text{
+  text-align: center;
+  color: #fff;
+  font-size: 48px;
+}
+.middle-text{
+  text-align: center;
+  color: black;
+}
+.logout-button{
+  margin: 12px;
+  padding: 12px;
+  background-color: black;
+  border: 0;
+  border-radius: 10px;
+  color:#fff;
+  cursor: pointer;
+  text-align: center;
+}
+
+.decore-user{
+  font-size: 36px;
+  color:crimson
+}
